@@ -7,7 +7,7 @@ for(let i=2;i<num;i++){
   break;
   }
 }
-if(flag===0){
+if(flag===1){
 console.log(" Not Prime");
 }
 else{
